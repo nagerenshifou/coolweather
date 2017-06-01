@@ -1,3 +1,6 @@
 $ git clone git@github.com:nagerenshifou/coolweather.git
 
-1.需要密钥?ssh
+1.需要密钥?ssh（√）
+git add .
+git commit -m "First commit"
+git push origin master
